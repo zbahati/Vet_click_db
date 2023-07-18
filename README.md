@@ -124,12 +124,14 @@ After you're finished please remove all the comments and instructions!
 
 > Describe how a new developer could make use of your project.
 
+
 To get a local copy up and running, follow these steps.
 - install postgreSQL in your machine
 - then create database using CREATE DATABASE animals
 - then create table then paste the code from schema.sql
 - to insert data into the table you need to open the terminal cd to database name and then paste the query from queries.sql
 - for getting the data filtered you have to paste the queries in data.sql
+
 
 DONE
 
